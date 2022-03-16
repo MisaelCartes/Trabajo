@@ -1,0 +1,37 @@
+h1,h2{
+    text-align: center;
+    color: yellow;
+}
+
+p{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 750px;
+    margin-left: 700px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+#m{
+    text-align: center;
+    color: black;
+}
+ul{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 750px;
+    margin-left: 700px;
+    background-color: burlywood;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
